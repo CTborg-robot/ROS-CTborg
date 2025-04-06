@@ -1,0 +1,14 @@
+<package format="3">
+  <name>camera_tracker</name>
+  <version>0.0.0</version>
+  <description>Camera tracking node</description>
+  <maintainer email="ros@TODO.com">ros</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>opencv-python</exec_depend>
+</package>
